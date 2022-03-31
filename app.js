@@ -123,4 +123,4 @@ alert("Have a good day")
 
 }
 
-playAgain() 
+playAgain()
